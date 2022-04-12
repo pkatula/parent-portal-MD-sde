@@ -1,2 +1,2 @@
-# parent_portal_md_sde
+# parent-portal-MD-sde
 Parent Portal (Maryland State Department of Education) website
